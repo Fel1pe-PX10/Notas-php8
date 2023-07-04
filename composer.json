@@ -1,0 +1,15 @@
+{
+    "name": "back/notas",
+    "autoload": {
+        "psr-4": {
+            "Back\\Notas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Felipe Paez",
+            "email": "ofpaez87@gmail.com"
+        }
+    ],
+    "require": {}
+}
